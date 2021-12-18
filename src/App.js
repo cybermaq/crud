@@ -55,7 +55,7 @@ function App() {
     setEditar(false);
     e.preventDefault();
 
-    if (!validForm) {
+    if (!validForm()) {
       return
     }
 
