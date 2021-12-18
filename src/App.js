@@ -4,8 +4,9 @@ function App() {
   return (
   <div className='container mt-5'>
     <h1>
-      hola wiclass
+      Tareas
     </h1>
+    <hr/>
   </div>
   );
 }
